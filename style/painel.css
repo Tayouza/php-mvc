@@ -1,0 +1,7 @@
+.painel{
+    display: flex;
+}
+
+td{
+    padding: 5px;
+}
